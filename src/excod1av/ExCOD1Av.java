@@ -18,7 +18,7 @@ public class ExCOD1Av {
         // TODO code application logic here
     }
     // Punto A del Esquema.
-    
+    // Punto B del Esquema.
     
     
 }
